@@ -1,10 +1,10 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-import "./erc721.sol";
-import "./erc721-token-receiver.sol";
-import "./supports-interface.sol";
-import "./address-utils.sol";
+import "erc721.sol";
+import "erc721-token-receiver.sol";
+import "supports-interface.sol";
+import "address-utils.sol";
 
 /**
  * @dev Implementation of ERC-721 non-fungible token standard.
