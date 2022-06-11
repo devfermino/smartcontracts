@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-import "./erc165.sol";
+import "erc165.sol";
 
 /**
  * @dev Implementation of standard for detect smart contract interfaces.
