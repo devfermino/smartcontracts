@@ -3,7 +3,7 @@ SPDX-License-Identifier: no-license
 (c) Developed by Cleiton Fermino
 */
 
-pragma solidity 0.8.7;
+pragma solidity ˆ0.8.4;
 
 /**
  * @dev String operations.
