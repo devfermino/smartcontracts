@@ -2,9 +2,8 @@ package teste
 
 import "fmt"
 
-var Greeting string
 
 func Hello(name string) string {
-	return fmt.Sprintf(Greeting, name)
+	return fmt.Sprintf( name)
 }
 
